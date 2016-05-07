@@ -1,0 +1,8 @@
+main0:main.c multy.c
+	gcc -o0 main0 main.c multy.c
+main2:main.c multy.c
+	gcc -o2 main2 main.c multy.c 
+
+clean: 
+	rm main *.o
+
